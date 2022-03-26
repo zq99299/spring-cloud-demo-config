@@ -2,4 +2,4 @@ info:
   profile: dev
  
 name: Saul
-words: '{cipher}0bb6dca8ac7157a391467133e18dd92f2679a348d4ed735ebb52915bd1169dc2fe59160625241c94f80156c763bc7281'
+words: '我是一个明文的字符串了'
