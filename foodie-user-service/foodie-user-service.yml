@@ -1,1 +1,12 @@
 
+# actuator 配置
+management:
+  endpoints:
+    web:
+      exposure:
+        # 暴露接口
+        include: "*"
+
+  endpoint:
+    health:
+      show-details: always
